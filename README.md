@@ -43,10 +43,6 @@ Retail businesses often struggle to answer:
 - Removed duplicates  
 - Handled missing values  
 - Standardized column names  
-- Created:
-  - Month  
-  - Year  
-  - Revenue  
 
 ### 🔹 Python (Advanced Cleaning)
 - Handled missing data efficiently  
